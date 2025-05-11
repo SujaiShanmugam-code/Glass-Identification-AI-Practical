@@ -53,7 +53,7 @@ To apply **at least 3 classification algorithms** such as Artifical neural netwo
 ---
 
 ## 📄 Report Link  
-[Google Docs Report](https://docs.google.com/document/d/1aT_rRivhFH6Mr0Gs94fYDIOgO3mm0uLaXYJqD0P8GGA/edit?usp=sharing)
+[Google Docs Report](https://docs.google.com/document/d/1JgrSC3yp9x66qrxSeRej_nRsTuqhLvDlpjjnaDfEBYA/edit?usp=sharing)
 
 ---
 
