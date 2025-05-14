@@ -28,7 +28,7 @@ To apply **at least 3 classification algorithms** such as Artifical neural netwo
 
 ## 🏆 Contents  
 
-- `Practial2_Glass_Identification.ipynb` — Python script (Google Colab)  
+- `Practial2_Glass_Identification.ipynb` — Python script (Google Colab) "For checking (not mainly used)"
 - `PR_2.ows` — Orange Tool workflow file  
 - `glass.csv` — Glass Identification Dataset  
 - `README.md` — Project overview & structure  
