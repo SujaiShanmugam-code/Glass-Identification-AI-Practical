@@ -39,7 +39,6 @@ To apply **at least 3 classification algorithms** such as Artifical neural netwo
 
 - **Sujai Shanmugam** (231ADB016)  
 - **Oleksii Burianov** (231ADB220)  
-- **Logut Alexandre** (250AEB021)  
 - **Sunnatilla Ismoilov** (191AMC063)  
 
 📘 **Instructor:** Prof. Alla Anohina-Naumeca (RTU FCSITE)
